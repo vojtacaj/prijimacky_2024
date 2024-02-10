@@ -1,0 +1,24 @@
+[Unit]
+Description=Minecraft server
+Wants=network.target
+After=network.target
+
+[Service]
+EnvironmentFile=/etc/minecraft-server/minecraft-server.conf
+# TODO load User from EnvironmentFile
+#User=${MINEUSER} - does not work yet.
+User=minecraft
+#Group=minecraft 
+
+# Nice  are user-space values that we can use to control
+# the priority of a process -20 is hightest 0 default and
+# +19 lowest
+Nice=5
+
+SuccessExitStatus=130
+
+ExecStart=/usr/local/bin/minecraft-server-runner.sh -s
+
+[Install]
+WantedBy=multi-user.target
+
