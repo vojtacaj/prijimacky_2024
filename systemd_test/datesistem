@@ -1,0 +1,21 @@
+#!/bin/bash
+
+function xddstart() { 
+   while [ 1 ]
+     do 
+     echo hello there $(date)
+     sleep 10
+     done
+}
+function xddstop() {
+   killall $(basename $0)
+}
+
+case "$1" in 
+  start)
+      xddstart 
+     ;;
+  stop)
+      xddstop
+     ;;
+esac 

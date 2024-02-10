@@ -14,3 +14,8 @@ dva roky zabýval.
 ## Licence 
 
 * Creative Commons license family
+
+
+### bash_intro
+
+* úvod do skriptovacího jazyka bash
