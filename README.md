@@ -43,3 +43,12 @@ dva roky zabýval.
   maximálně 100MG na jeden soubor.
 
 * Instrukce k instalaci jsou v soubor install.md
+
+###  Minecraft server jako systemd služba
+
+* Projekt obsahuje bash skript který spustí minecraft server
+  podle zadaných parametrů které jsou uloženy v configurčním
+  souboru.
+
+* Systemd služba (service) spustí minecraft server jako systemovou
+  služby podle zadaných parametrů.
