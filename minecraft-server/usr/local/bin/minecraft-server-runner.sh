@@ -24,6 +24,7 @@ elif [[ ${XD} == "-d" ]]
 elif [[ ${XD} == "-s" ]]
   then 	
       echo "run the server"
+      cd ${PATH}
       /usr/lib64/jvm/${JAVAVERSION}/bin/java -Xmx${MEMORYXMX} -Xms${MEMORYXMS} -jar ${SERVER} ${OPTIONS}
 
 else
