@@ -1,4 +1,4 @@
-# Přímačky na střední školy pro rok 2024
+# Příjmačky na střední školy pro rok 2024
 
 * Autor: Vojtěch Čaj
 * Email: vojtech.caj@gmail.com
@@ -6,7 +6,7 @@
 ## O projektu 
 
 Tento projekt obsahuje kolekci projektů do portfolia
-na přímačky. 
+na příjmačky. 
 Obsahuje několik různých věcí, kterými jsem se poslední
 dva roky zabýval.
 
