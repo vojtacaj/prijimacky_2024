@@ -11,11 +11,6 @@ Obsahuje několik různých věcí, kterými jsem se poslední
 dva roky zabýval.
 
 
-## Licence 
-
-* Creative Commons license family
-
-
 ### Bash intro
 
 * Úvod do skriptovacího jazyka bash.
@@ -52,3 +47,8 @@ dva roky zabýval.
 
 * Systemd služba (service) spustí minecraft server jako systemovou
   služby podle zadaných parametrů.
+
+## Licence 
+
+* Creative Commons license family
+
