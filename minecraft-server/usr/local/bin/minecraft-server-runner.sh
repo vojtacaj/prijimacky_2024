@@ -13,7 +13,7 @@ elif [[ ${XD} == "-d" ]]
   then 	
       echo "java version for minecraft server is ${JAVAVERSION}"
       echo "path for minecraft server is ${PATH}"
-      echo "path for minecraft server is ${SERVER}"
+      echo "version for minecraft server is ${SERVER}"
       echo "memory minimum for minecraft server is ${MEMORYXMS}" 
       echo "memory maximum for minecraft server is ${MEMORYXMX}" 
       echo "options for minecraft server is ${OPTIONS}"
