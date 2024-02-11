@@ -24,7 +24,7 @@ dva roky zabýval.
 
 * Systemd test pouze vypisuje aktuální datum do journalctl (logu).
 
-### Araulen ročníková práce
+### Araulen - ročníková práce
 
 * Moje ročníková práce z 8. třídy kde jsem postavil stavby
   z mé oblíbené knihy v Minecraftu.
