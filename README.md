@@ -1,4 +1,4 @@
-# Přijímačky na střední školy pro rok 2024
+# Přílohy k portfoliu pro přijímací zkoušku na SSPŠ
 
 * Autor: Vojtěch Čaj
 * Email: vojtech.caj@gmail.com
@@ -7,8 +7,6 @@
 
 Tento projekt obsahuje kolekci projektů do portfolia
 na přijímačky.
-Obsahuje několik různých věcí, kterými jsem se poslední
-dva roky zabýval.
 
 
 ### Bash intro
@@ -29,7 +27,7 @@ dva roky zabýval.
 * Moje ročníková práce z 8. třídy kde jsem postavil stavby
   z mé oblíbené knihy v Minecraftu.
 
-* Ročníková práce je popsaná v souboru pdf.
+* Ročníková práce je v souboru pdf.
 
 * Součástí projektu je i samotný svět, který lze nainstalovat pomocí
   Minecraft Multilancheru nebo Polylancheru.
@@ -37,7 +35,9 @@ dva roky zabýval.
 * Svět jsem musel rozdělit do tří souborů, protože github povoluje
   maximálně 100MG na jeden soubor.
 
-* Instrukce k instalaci jsou v soubor install.md
+* Adresa umístění: https://github.com/vojtacaj/araulen
+
+* Instrukce k instalaci jsou v souboru install.md
 
 ###  Minecraft server jako systemd služba
 
